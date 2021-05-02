@@ -1,0 +1,8 @@
+## Interface: 11303
+## Title: AdiBags: |cff69ccf0Sniper TBC|r
+## Notes: PrivateSniper's Custom AdiBags filters for TBC Classic
+## Author: PrivateSniper
+## Version: 1.0.0
+## Dependencies: AdiBags
+
+main.xml
