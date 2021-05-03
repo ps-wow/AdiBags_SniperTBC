@@ -52,9 +52,6 @@
     <Script file="categories\misc\keys.lua"/>
     <Script file="categories\misc\travel.lua"/>
 
-    <!-- Holidays -->
-    <Script file="categories\misc\holidays\darkmoon.lua"/>
-
     <!-- Main -->
     <Script file="main.lua"/>
 </Ui>
