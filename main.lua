@@ -86,8 +86,8 @@ function Core:DefaultFilter(slotData)
 end
 
 local filter = AdiBags:RegisterFilter(namespace, 95)
-filter.uiName = 'Sniper Classic'
-filter.description = 'Sniper Classic Filters'
+filter.uiName = 'Sniper TBC Classic'
+filter.description = 'Sniper TBC Classic Filters'
 
 function filter:Filter(slotData)
   return Core:DefaultFilter(slotData)
