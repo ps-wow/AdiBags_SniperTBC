@@ -3,7 +3,7 @@ local L = AddonTable.L
 
 local AdiBags = LibStub("AceAddon-3.0"):GetAddon("AdiBags")
 local Core = LibStub("AceAddon-3.0"):NewAddon("AdiBags_SniperTBC")
-local namespace = 'Sniper Classic'
+local namespace = 'Sniper TBC Classic'
 
 -- Addon Debug (ViragDevTools)
 function Core:Dump(str, obj) if ViragDevTool_AddData then ViragDevTool_AddData(obj, str) end end
